@@ -12,6 +12,11 @@
   I'm graduated from Firat University. I hava 4 years experiance. I'm developing Embedded Software and desining hardware.
 </p>
 
+<h3>
+  Languages and Tools :
+</h3>
+
+
 
 <!--
 **turgayhopal/turgayhopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
