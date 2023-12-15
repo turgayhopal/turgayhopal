@@ -13,20 +13,20 @@
 </p>
 
 ### Programming Language
-![java](./png/java.png)
 
-![[java.png]] ![[python.png]] ![[c++.png]] ![[c.png]]  ![[sh-linux.png]]
+
+![java](./png/java.png) ![python](./png/python.png) ![c](./png/c.png) ![cpp](./png/c++.png)   ![sh-linux](./png/sh-linux.png)
  
 ### Embedded Device
 
-![[png/stm32.png]]   ![[png/nrf.png]]  ![[png/esp32.jpg]]![[png/micro.png]]    ![[png/nuv.png]]  ![[png/rp.png]]
+![stm32](./png/stm32.png)   ![nrf52](./png/nrf.png)  ![esp32](./png/esp32.jpg) ![microcip](./png/micro.png)    ![nuvoton](./png/nuv.png)   ![rasp](./png/rp.png)
 
 
 ### Tools
 
-![[png/yocto.png]]  ![[png/buildroot.png]]      ![[png/cmake.png]]  ![[png/maven.png]] ![[png/grandle.png]]
+![yocto](./png/yocto.png)  ![buildroot](./png/buildroot.png)      ![cmake](./png/cmake.png)  ![maven](./png/maven.png) ![grandle](./png/grandle.png)
 
 ### Web Framework
 
-![[png/spring-boot.png]]  ![[png/flask.png]]   ![[png/fastapi.png]]
+![spring](./png/spring-boot.png)  ![flask](./png/flask.png)   ![](./png/fastapi.png)
 
