@@ -13,8 +13,7 @@
 </p>
 
 ### Programming Language
-
-![alt text](https://github.com/turgayhopal/turgayhopal/blob/master/png/java.png?raw=true)
+![java](./png/java.png)
 
 ![[java.png]] ![[python.png]] ![[c++.png]] ![[c.png]]  ![[sh-linux.png]]
  
