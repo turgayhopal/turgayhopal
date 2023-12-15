@@ -9,26 +9,23 @@
 </h2>
 
 <p>
-  I'm graduated from Firat University. I hava 4 years experiance. I'm developing Embedded Software and desining hardware.
+  I'm graduated from Firat University. I hava 4 years experiance. I'm developing Embedded Software and desining hardware. 🔭
 </p>
 
-<h3>
-  Languages and Tools :
-</h3>
+### Programming Language
+
+![[java.png]] ![[python.png]] ![[c++.png]] ![[c.png]]  ![[sh-linux.png]]
+ 
+### Embedded Device
+
+![[stm32.png]]   ![[nrf.png]]  ![[esp32.jpg]]![[micro.png]]    ![[nuv.png]]  ![[rp.png]]
 
 
+### Tools
 
-<!--
-**turgayhopal/turgayhopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![[yocto.png]]  ![[buildroot.png]]      ![[cmake.png]]  ![[maven.png]] ![[grandle.png]]
 
-Here are some ideas to get you started:
+### Web Framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![[spring-boot.png]]  ![[flask.png]]   ![[fastapi.png]]
+
