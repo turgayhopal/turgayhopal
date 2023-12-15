@@ -18,14 +18,14 @@
  
 ### Embedded Device
 
-![[stm32.png]]   ![[nrf.png]]  ![[esp32.jpg]]![[micro.png]]    ![[nuv.png]]  ![[rp.png]]
+![[png/stm32.png]]   ![[png/nrf.png]]  ![[png/esp32.jpg]]![[png/micro.png]]    ![[png/nuv.png]]  ![[png/rp.png]]
 
 
 ### Tools
 
-![[yocto.png]]  ![[buildroot.png]]      ![[cmake.png]]  ![[maven.png]] ![[grandle.png]]
+![[png/yocto.png]]  ![[png/buildroot.png]]      ![[png/cmake.png]]  ![[png/maven.png]] ![[png/grandle.png]]
 
 ### Web Framework
 
-![[spring-boot.png]]  ![[flask.png]]   ![[fastapi.png]]
+![[png/spring-boot.png]]  ![[png/flask.png]]   ![[png/fastapi.png]]
 
